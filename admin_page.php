@@ -29,7 +29,7 @@ if (!isset($admin_id)) {
 
 <body>
 
-
+    <?php include 'admin_header.php'; ?>
 
 
     <section class="dashboard">
