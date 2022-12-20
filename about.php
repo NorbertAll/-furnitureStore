@@ -148,6 +148,63 @@ if (!isset($user_id)) {
 
     </section>
 
+    <section class="authors">
+
+        <h1 class="title">greate authors</h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="images/author-1.jpg" alt="">
+                <div class="share">
+                    <a href="#" class="fab fa-facebook-f"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-linkedin"></a>
+                </div>
+                <h3>Norbert Gutkowski</h3>
+            </div>
+
+            <div class="box">
+                <img src="images/author-2.jpg" alt="">
+                <div class="share">
+                    <a href="#" class="fab fa-facebook-f"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-linkedin"></a>
+                </div>
+                <h3>Dawid Gutkowska</h3>
+            </div>
+
+            <div class="box">
+                <img src="images/author-3.jpg" alt="">
+                <div class="share">
+                    <a href="#" class="fab fa-facebook-f"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-linkedin"></a>
+                </div>
+                <h3>Bożena Gutkowski</h3>
+            </div>
+
+            <div class="box">
+                <img src="images/author-4.jpg" alt="">
+                <div class="share">
+                    <a href="#" class="fab fa-facebook-f"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-linkedin"></a>
+                </div>
+                <h3>Alicja Gutkowska</h3>
+            </div>
+
+
+
+
+
+        </div>
+
+    </section>
 
 
 
