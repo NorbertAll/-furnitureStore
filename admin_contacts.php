@@ -62,5 +62,5 @@ if (isset($_GET['delete'])) {
             }
             ?>
         </div>
-
+        <script src="js/admin_script.js"></script>
     </section>
